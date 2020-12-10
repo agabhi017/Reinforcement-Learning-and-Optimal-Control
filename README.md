@@ -1,1 +1,1 @@
-# Reinforcement-Learning-and-OPtimal-Control
+# Reinforcement-Learning-and-Optimal-Control
